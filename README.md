@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2>Hello world! 👋</h2>
+
+<p>I'm a software developer at <strong><a href="https://taxbackinternational.com/">Taxback International</a></strong> based in India. I am currently doing #100DaysOfCode with Python and Django.</p>
 
 <!--
 **iamkesharinandan/iamkesharinandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
