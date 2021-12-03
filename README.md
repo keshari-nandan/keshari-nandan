@@ -42,6 +42,11 @@ I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=iamkesharinandan&show_icons=true&count_private=true" alt="iamkesharinandan" />
 </p>
+<p align="left">
+    <a href="https://github.com/iamkesharinandan">
+    <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkesharinandan"  alt="Most used languages"/>
+    </a>
+</p>
 
 <h2 align="left">✌️ Latest Tweets </h2>
 <p align="left"><a href="https://www.twitter.com/imkesharinandan"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=imkesharinandan&amp;layout=wide" alt="github-readme-twitter"></a></p>
