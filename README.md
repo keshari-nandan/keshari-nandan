@@ -57,8 +57,6 @@ I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack 
   <img alt="Keshari's Stackoverflow" width="25px" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/stackoverflow.svg" />
 </a>
 <br>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=iamkesharinandan.iamkesharinandan" alt="visitors"></p>
-
 
 <!--
 **iamkesharinandan/iamkesharinandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
