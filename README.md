@@ -58,6 +58,8 @@ I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack 
 </a>
 <br>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=imkesharinandan.visitor-badge)
+
 <!--
 **iamkesharinandan/iamkesharinandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
