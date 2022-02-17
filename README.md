@@ -1,11 +1,7 @@
 <h2>Hello world! 👋</h2>
 
-<p align="left">
+
 I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack Web developer from 🇮🇳 India. I'm a problem solver & an enthusiastic programmer, and I love working on new ideas, architecting the application and infrastructure to make life simpler. I take great care of architecture, and code quality of the things I build.
-</p>
-<p align="right">
-    <a href="https://app.daily.dev/imkesharinandan"><img src="https://api.daily.dev/devcards/2c933796d1e64e90ab3a5172b94b6636.png?r=d0u" width="400" alt="Keshari Nandan's Dev Card"/></a>
-</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -51,6 +47,10 @@ I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack 
     <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkesharinandan"  alt="Most used languages"/>
     </a>
 </p>
+    <h2 alight="left"> Daily.Dev </h2>
+    <p>
+        <a href="https://app.daily.dev/imkesharinandan"><img src="https://api.daily.dev/devcards/2c933796d1e64e90ab3a5172b94b6636.png?r=d0u" width="400" alt="Keshari Nandan's Dev Card"/></a>
+    </p>
 
 <h2 align="left">✌️ Latest Tweets </h2>
 <p align="left"><a href="https://www.twitter.com/imkesharinandan"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=imkesharinandan&amp;layout=wide" alt="github-readme-twitter"></a></p>
