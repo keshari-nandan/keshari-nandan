@@ -8,7 +8,7 @@ I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack 
 <li>🔭 I’m currently working in <a href="https://www.inmobi.com/">InMobi</a>.</li>
 <li>👨‍💻 Learning <strong>Go</strong>, <strong>AWS</strong>, and a bit of <strong>DevOps skills</strong>.</li>
 <li>📝 I regularly learn something and I want to learn a bit of everything 😜.</li>
-<li>💬 Ping me about <strong>Python, Django, FastApi, Php, Laravel, Docker, and Aws</strong>.</li>
+<li>💬 Ping me about <strong>Python, Django, FastApi, Celery, Php, Laravel, Docker, and Aws</strong>.</li>
 
 <h2 align="left">🚀 Some Tools I Use</h2>
 <p align="left">
@@ -40,16 +40,16 @@ I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack 
 
 <h2 align="left">💻 Github Stats</h2>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=iamkesharinandan&show_icons=true&count_private=true" alt="iamkesharinandan" />
+<img src="https://github-readme-stats.vercel.app/api?username=keshari-nandan&show_icons=true&count_private=true" alt="keshari-nandan" />
 </p>
 <p align="left">
-    <a href="https://github.com/iamkesharinandan">
-    <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkesharinandan"  alt="Most used languages"/>
+    <a href="https://github.com/keshari-nandan">
+    <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshari-nandan"  alt="Most used languages"/>
     </a>
 </p>
     <h2 alight="left"> Daily.Dev </h2>
     <p>
-        <a href="https://app.daily.dev/imkesharinandan"><img src="https://api.daily.dev/devcards/2c933796d1e64e90ab3a5172b94b6636.png?r=d0u" width="400" alt="Keshari Nandan's Dev Card"/></a>
+        <a href="https://app.daily.dev/keshari-nandan"><img src="https://api.daily.dev/devcards/2c933796d1e64e90ab3a5172b94b6636.png?r=d0u" width="400" alt="Keshari Nandan's Dev Card"/></a>
     </p>
 
 <h2 align="left">✌️ Latest Tweets </h2>
@@ -70,7 +70,7 @@ I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=imkesharinandan.visitor-badge)
 
 <!--
-**iamkesharinandan/iamkesharinandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**keshari-nandan/keshari-nandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
