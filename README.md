@@ -5,7 +5,6 @@ I'm [Keshari Nandan](https://knandan.com/), a passionate self-taught Full Stack 
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working in <a href="https://www.inmobi.com/">InMobi</a>.</li>
 <li>👨‍💻 Learning <strong>Go</strong>, <strong>AWS</strong>, and a bit of <strong>DevOps skills</strong>.</li>
 <li>📝 I regularly learn something and I want to learn a bit of everything 😜.</li>
 <li>💬 Ping me about <strong>Python, Django, FastApi, Celery, Php, Laravel, Docker, and Aws</strong>.</li>
