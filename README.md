@@ -2,7 +2,7 @@
 
 
 
-Hi 👋!,  I'm Keshari Nandan, a passionate self-taught Full Stack Web developer from 🇮🇳 India. I'm a problem solver & an enthusiastic programmer, and I love working on new ideas, architecting the application and infrastructure to make life simpler. I take great care of architecture, and code quality of the things I build.
+I'm Keshari Nandan, a passionate self-taught Full Stack Web developer from 🇮🇳 India. I'm a problem solver & an enthusiastic programmer, and I love working on new ideas, architecting the application and infrastructure to make life simpler. I take great care of architecture, and code quality of the things I build.
 
 ###
 
